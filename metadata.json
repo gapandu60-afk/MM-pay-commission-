@@ -1,0 +1,6 @@
+{
+  "name": "MM Pay - P2P Commission",
+  "description": "Peer-to-peer transaction platform and task commission system with order matching, UPI wallet management, team referral rewards, and earnings tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
